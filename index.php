@@ -13,7 +13,7 @@
     <link rel="stylesheet" type="text/css" href="">
     <style>
         html,body{
-            background-image: url('https://taoanhonline.com/wp-content/uploads/2019/07/anh-nen-thien-nhien-118.jpg');
+            background-image: url('https://lienminh.garena.vn/images/Lan_h3lpm3/10_2019/TFT/Frost_Guard_Arena.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             height: 100%;
